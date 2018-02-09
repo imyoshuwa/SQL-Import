@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\bin\ColumnMappingModal.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\bin\ColumnMappingModal.dll
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\bin\ColumnMappingModal.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\obj\Debug\ColumnMappingModal.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\obj\Debug\ColumnMappingModal.dll
+c:\users\dell\documents\visual studio 2013\Projects\ColumnMappingModal\ColumnMappingModal\obj\Debug\ColumnMappingModal.pdb
